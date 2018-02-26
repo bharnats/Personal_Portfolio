@@ -31,7 +31,7 @@ section{
 
 .section-4 {
 	background-color: #063647;
-	padding: 0.2rem;
+	/* padding: 0.2rem; */
 }
 
 a.nav-item {
@@ -44,7 +44,7 @@ a.nav-item:hover {
 
 .avatar{
 	height:200px;
-	border-radius: 50%;
+	border-radius: 40%;
 }
 
 .intro-description{
@@ -77,6 +77,7 @@ a.nav-item:hover {
 	text-align: left;
 	margin-bottom: 2rem;
 }
+
 
 .intro {
 	text-align: justify;
